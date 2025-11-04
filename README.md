@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on i dont know, continuously learning and building projects on ml maybe
-- 🌱 I’m currently learning data science 
+- 🌱 I’m currently learning data science(analysis and training models)
 - 👯 I’m looking to collaborate on absolutely anything
 - 🤔 I’m looking for help with ai/ml
 - 💬 Ask me about- you must be really low on life if you have to ask me for anything
